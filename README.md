@@ -1,2 +1,2 @@
 # concurence-hs
-Few examples using concurrence in Haskell
+Few tests using concurrence in Haskell
